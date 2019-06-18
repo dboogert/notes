@@ -1,0 +1,11 @@
+{   
+    "context": {"machine": {"host": "don-Inspiron-7537", "frequency": 3000.0, "core-count": 2, "thread-count": 4, "memory": 8257839104}, "date": "2019-06-15T13:46:00.357072", "version": {"sha1": "581947558a42fea8a4a83fe68ae63b79244199b6", "tag": "0.8.0"}, "user": "don"},
+    "tests" : {
+        "test1" : [0,2,3,4],
+        "test2" : [5,5.1,4.9, 4.0],
+        "test4" : [21.1, 20.5, 30.0, 22.0] 
+    }
+    
+}
+
+ 
